@@ -493,3 +493,6 @@ pub use self::useruser_idsubscribitions_inner::UseruserIdsubscribitionsInner;
 
 // TODO(farcaller): sort out files
 pub struct File;
+
+#[derive(Debug, Default, Deserialize, Serialize)]
+pub struct ErrorUnknown;
