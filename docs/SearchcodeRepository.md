@@ -1,0 +1,52 @@
+# SearchcodeRepository
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**archive_url** | **String** |  | [optional] [default to null]
+**assignees_url** | **String** |  | [optional] [default to null]
+**blobs_url** | **String** |  | [optional] [default to null]
+**branches_url** | **String** |  | [optional] [default to null]
+**collaborators_url** | **String** |  | [optional] [default to null]
+**comments_url** | **String** |  | [optional] [default to null]
+**commits_url** | **String** |  | [optional] [default to null]
+**compare_url** | **String** |  | [optional] [default to null]
+**contents_url** | **String** |  | [optional] [default to null]
+**contributors_url** | **String** |  | [optional] [default to null]
+**description** | **String** |  | [optional] [default to null]
+**downloads_url** | **String** |  | [optional] [default to null]
+**events_url** | **String** |  | [optional] [default to null]
+**fork** | **bool** |  | [optional] [default to null]
+**forks_url** | **String** |  | [optional] [default to null]
+**full_name** | **String** |  | [optional] [default to null]
+**git_commits_url** | **String** |  | [optional] [default to null]
+**git_refs_url** | **String** |  | [optional] [default to null]
+**git_tags_url** | **String** |  | [optional] [default to null]
+**hooks_url** | **String** |  | [optional] [default to null]
+**html_url** | **String** |  | [optional] [default to null]
+**id** | **i32** |  | [optional] [default to null]
+**issue_comment_url** | **String** |  | [optional] [default to null]
+**issue_events_url** | **String** |  | [optional] [default to null]
+**issues_url** | **String** |  | [optional] [default to null]
+**keys_url** | **String** |  | [optional] [default to null]
+**labels_url** | **String** |  | [optional] [default to null]
+**languages_url** | **String** |  | [optional] [default to null]
+**merges_url** | **String** |  | [optional] [default to null]
+**milestones_url** | **String** |  | [optional] [default to null]
+**name** | **String** |  | [optional] [default to null]
+**notifications_url** | **String** |  | [optional] [default to null]
+**owner** | [***::models::MergesSuccessfulAuthor**](mergesSuccessful_author.md) |  | [optional] [default to null]
+**private** | **bool** |  | [optional] [default to null]
+**pulls_url** | **String** |  | [optional] [default to null]
+**stargazers_url** | **String** |  | [optional] [default to null]
+**statuses_url** | **String** |  | [optional] [default to null]
+**subscribers_url** | **String** |  | [optional] [default to null]
+**subscription_url** | **String** |  | [optional] [default to null]
+**tags_url** | **String** |  | [optional] [default to null]
+**teams_url** | **String** |  | [optional] [default to null]
+**trees_url** | **String** |  | [optional] [default to null]
+**url** | **String** |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
